@@ -1,1 +1,3 @@
 # booksy-app
+
+## Motivation
